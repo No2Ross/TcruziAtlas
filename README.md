@@ -1,2 +1,2 @@
 # TcruziAtlas
-Scripts for the T. cruzi in vitro atlas analysis
+Scripts for the _T. cruzi_ _in vitro_ atlas analysis
